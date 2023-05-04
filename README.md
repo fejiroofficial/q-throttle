@@ -1,10 +1,10 @@
-# q-throttle
+# q-map-throttle
 A utility for throttling Q promises created using map()
 
 
 ```javascript
 import Q from 'q';
-import { map } from 'q-throttle';
+import { map } from 'q-map-throttle';
 
 Q.map = map
 
