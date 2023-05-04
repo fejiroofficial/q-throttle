@@ -1,0 +1,28 @@
+{
+  "name": "q-throttle",
+  "version": "1.0.0",
+  "description": "A utility for throttling Q promises created using map()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fejiroofficial/q-throttle.git"
+  },
+  "keywords": [
+    "qmap",
+    "q-map"
+  ],
+  "author": "Fejiro Gospel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fejiroofficial/q-throttle/issues"
+  },
+  "homepage": "https://github.com/fejiroofficial/q-throttle#readme",
+  "dependencies": {
+    "async": "^3.2.4",
+    "q": "^1.5.1",
+    "underscore": "^1.13.6"
+  }
+}
