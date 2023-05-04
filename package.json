@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/fejiroofficial/q-throttle.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "qmap",
     "q-map"
